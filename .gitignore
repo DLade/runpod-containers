@@ -1,3 +1,9 @@
 *.ckpt
 *.safetensors
 *.pth
+
+/.idea/
+*.iml
+
+/.vscode/
+/.vscode-test/
